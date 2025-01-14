@@ -1,4 +1,4 @@
-# Adversarially Enhanced Code Smell Detection
+# AdversarialTraining4SmellDetection
 ## Overview
 This repository contains the code, datasets, and experimental setup for our research on adversarially enhanced code smell detection models. The study focuses on improving the robustness of deep learning-based models, particularly under adversarial conditions, using adversarial training strategies.
 
